@@ -13,7 +13,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://seego-e-com.onrender.com")
 public class Controller {
 
     @Autowired
